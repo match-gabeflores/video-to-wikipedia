@@ -1,0 +1,15 @@
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\bin\Video-to-Wikipedia.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\bin\Video-to-Wikipedia.pdb
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\obj\Debug\ResolveAssemblyReference.cache
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\obj\Debug\Video-to-Wikipedia.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\obj\Debug\Video-to-Wikipedia.pdb
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\bin\ffmpeg2theora.exe
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\bin\System.Web.Abstractions.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\bin\System.Web.Extensions.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\bin\System.Web.Mobile.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\bin\System.Web.Mvc.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\bin\System.Web.Routing.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\bin\System.Web.Mvc.xml
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\obj\Debug\Video_to_Wikipedia.Properties.Resources.resources
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\obj\Debug\GenerateResource.read.1.tlog
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia\obj\Debug\GenerateResource.write.1.tlog

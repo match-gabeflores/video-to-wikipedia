@@ -1,0 +1,13 @@
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\Video-to-Wikipedia.Tests.dll.config
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\Video-to-Wikipedia.Tests.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\Video-to-Wikipedia.Tests.pdb
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\Moq.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\nunit.framework.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\Video-to-Wikipedia.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\Video-to-Wikipedia.pdb
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\Moq.pdb
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\Moq.xml
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\bin\Debug\nunit.framework.xml
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\obj\Debug\Video-to-Wikipedia.Tests.dll
+c:\users\w3stfa11\documents\visual studio 2010\Projects\Video-to-Wikipedia\Video-to-Wikipedia.Tests\obj\Debug\Video-to-Wikipedia.Tests.pdb
