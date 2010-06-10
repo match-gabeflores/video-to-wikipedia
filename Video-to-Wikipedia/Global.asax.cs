@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
+
 namespace Video_to_Wikipedia
 {
     // Note: For instructions on enabling IIS6 or IIS7 classic mode, 
@@ -29,6 +30,8 @@ namespace Video_to_Wikipedia
             AreaRegistration.RegisterAllAreas();
 
             RegisterRoutes(RouteTable.Routes);
+
+            log4net.Config.XmlConfigurator.Configure();
         }
     }
 }

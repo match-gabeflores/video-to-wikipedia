@@ -8,8 +8,13 @@ using System.Linq;
 using System.Reflection;
 using System.Web;
 using System.Web.Mvc;
+using Video_to_Wikipedia.Helpers;
 using Video_to_Wikipedia.Properties;
 using FlickrNet;
+using log4net;
+using log4net.Config;
+using Video_to_Wikipedia.Models;
+using Video_to_Wikipedia.Abstract;
 
 //todo refactor refactor refactor
 //todo  move magic strings to resources (create resource class if necesssary
@@ -21,30 +26,26 @@ namespace Video_to_Wikipedia.Controllers
     [HandleError]
     public class HomeController : Controller
     {
-
-        
+       
+        private IVideoService videoService;
         public ViewResult Index()
         {
             ViewData["key"] = Server.MapPath(".\\") + "ffmpeg2theora.exe" + "\r\n<br\\>";
+            string url = @"http://www.flickr.com/photos/iriya/4524606136/";
+
+            videoService = VideoServiceFactory.GetVideoService(url);
+            videoService.GetVideoUrl(url);
             
-            flickr();
             return View();
         }
 
-        private void flickr()
+        public ViewResult GetVideo(string url)
         {
             
-            string url = @"http://www.flickr.com/photos/42917230@N08/4076444545/";
-         //   Flickr flickr = new Flickr(Configuration.FlickrKey, Configuration.FlickrSecret);
 
-         //   var places = flickr.PlacesGetInfoByUrl(url);
-         //   ViewData["key"] = places.Description;
-           
- 
-        
+            return View();
         }
-
-        
+       
 
         private void ffmpegProcess()
         {

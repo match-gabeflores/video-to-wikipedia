@@ -16,17 +16,13 @@
                 <%= ViewData["key"] %>
             </div>
                
-            
-            <div id="menucontainer">
-            
-                <ul id="menu">              
-                    
-                   
-                </ul>
-            
+            <div>
+            <span>Please enter the url for the video:</span><br />
+            <input id="Text1" type="text" size="40"/>
             </div>
-        </div>
 
+            
+        </div>
         <div id="main">
            
 
