@@ -10,7 +10,7 @@ namespace Video_to_Wikipedia.Models
             throw new NotImplementedException();
         }
 
-        public string GetVideoUrl(string url)
+        public string GetVideoDownloadUrl(string url)
         {
             throw new NotImplementedException();
         }

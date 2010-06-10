@@ -7,7 +7,7 @@ namespace Video_to_Wikipedia.Abstract
 {
     public interface IVideoService
     {
-        string GetVideoUrl(string url);
+        string GetVideoDownloadUrl(string url);
 
       
 

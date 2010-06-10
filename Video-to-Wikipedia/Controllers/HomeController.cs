@@ -34,7 +34,7 @@ namespace Video_to_Wikipedia.Controllers
             string url = @"http://www.flickr.com/photos/iriya/4524606136/";
 
             videoService = VideoServiceFactory.GetVideoService(url);
-            videoService.GetVideoUrl(url);
+            videoService.GetVideoDownloadUrl(url);
             
             return View();
         }

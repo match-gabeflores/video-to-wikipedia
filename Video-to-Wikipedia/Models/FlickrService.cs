@@ -50,7 +50,7 @@ namespace Video_to_Wikipedia.Models
             return photoId;
         }
 
-        public string GetVideoUrl(string url)
+        public string GetVideoDownloadUrl(string url)
         {
             //photoInfo.LargeUrl = @"http://www.flickr.com/photos/42917230@N08/4076444545/sizes/l/";
             //string url2 = @"http://www.flickr.com/photos/42917230@N08/4076444545/";           
