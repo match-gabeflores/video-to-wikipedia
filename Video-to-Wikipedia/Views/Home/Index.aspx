@@ -18,7 +18,12 @@
                
             <div>
             <span>Please enter the url for the video:</span><br />
-            <input id="Text1" type="text" size="40"/>
+            <form method="post" action="<%= Url.Action("Submit", "Home") %>">
+            <p class="input-item">
+            <input id="url" name="videoUrl" type="text" size="40"/>
+            </p>
+            <input id="submitUrl" type="submit" value="Next" />
+            </form>
             </div>
 
             

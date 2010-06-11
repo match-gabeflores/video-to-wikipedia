@@ -39,13 +39,19 @@ namespace Video_to_Wikipedia.Controllers
             return View();
         }
 
-        public ViewResult GetVideo(string url)
+        public RedirectToRouteResult Submit(string url)
         {
+            //GetMetadata
             
-
-            return View();
+            //return View("VideoForm", videoInfo);
+            return RedirectToAction("VideoForm");
         }
-       
+        public ViewResult VideoForm()
+        {
+            VideoInfo videoInfo = new VideoInfo();
+
+            return View("VideoForm", videoInfo);
+        }
 
         private void ffmpegProcess()
         {
@@ -85,5 +91,7 @@ namespace Video_to_Wikipedia.Controllers
 
             return filenameStrings;
         }
+
+        
     }
 }
