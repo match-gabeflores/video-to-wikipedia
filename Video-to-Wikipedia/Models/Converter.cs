@@ -10,5 +10,12 @@ using System.Web.Security;
 
 namespace Video_to_Wikipedia.Models
 {
+    public class Converter
+    {
+        public bool Convert(string s)
+        {
+            return true;
+        }
+    }
 
 }

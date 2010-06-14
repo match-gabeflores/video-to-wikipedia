@@ -1,0 +1,17 @@
+R# version: 5.0.1659.36
+assembly FlickrNet, Version=3.0.0.0, Culture=neutral, PublicKeyToken=2491df59efa5d132
+  file C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\FlickrNet.dll mtime 5/20/2010 1:24:06 PM
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 9/4/2009 6:58:30 AM
+referenced assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll mtime 1/28/2010 1:31:02 PM
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30128\System.dll mtime 1/28/2010 7:51:52 AM
+referenced assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll mtime 1/28/2010 1:31:02 PM
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30128\System.Xml.dll mtime 1/28/2010 7:51:52 AM
+referenced assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll mtime 1/28/2010 1:31:02 PM
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30128\System.Drawing.dll mtime 1/28/2010 7:51:52 AM
+referenced assembly System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Configuration.dll mtime 1/28/2010 1:31:02 PM
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30128\System.Configuration.dll mtime 1/28/2010 7:51:52 AM

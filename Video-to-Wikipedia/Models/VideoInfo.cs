@@ -8,8 +8,9 @@ namespace Video_to_Wikipedia.Models
 {
     public class VideoInfo
     {
-        public string PhotoId { get; set; }
+        public string VideoId { get; set; }
         public string SourceUrl { get; set; }
+        public string DownloadUrl { get; set; }
         public LicenseType License { get; set; }
         public string Filename { get; set; }
         public List<string> Categories { get; set; }

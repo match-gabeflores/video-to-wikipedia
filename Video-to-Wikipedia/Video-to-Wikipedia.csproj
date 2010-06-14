@@ -91,7 +91,8 @@
     </Compile>
     <Compile Include="Helpers\Configuration.cs" />
     <Content Include="code.txt" />
-    <Compile Include="Models\ConverterModel.cs" />
+    <Compile Include="Models\Converter.cs" />
+    <Compile Include="Models\VideoDownloader.cs" />
     <Compile Include="Models\VideoInfo.cs" />
     <Compile Include="Models\ServiceFactory.cs" />
     <Compile Include="Models\NewVideoService.cs" />
@@ -106,6 +107,7 @@
   <ItemGroup>
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
+    <Content Include="Views\Home\ProcessVideo.aspx" />
     <Content Include="Views\Home\VideoForm.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>

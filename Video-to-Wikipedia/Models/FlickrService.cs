@@ -13,27 +13,28 @@ using log4net;
 using Video_to_Wikipedia.Abstract;
 using Video_to_Wikipedia.Controllers;
 using Video_to_Wikipedia.Helpers;
+using License = FlickrNet.License;
 
 namespace Video_to_Wikipedia.Models
 {
     public class FlickrService :IVideoService
     {
 
-        private ILog logger = log4net.LogManager.GetLogger(typeof(HomeController));
-        private string PhotoId { get; set; }
+      //  private ILog logger = log4net.LogManager.GetLogger(typeof(HomeController));
+        private VideoInfo videoInfo;
         // acceptable formats
         // http://www.flickr.com/photos/42917230@N08/4076444545/
         // http://www.flickr.com/photos/username/417646359/
         // 417646359 (just the id)
         private static string ExtractIdFromUrl(string url)
         {
-            string photoId = String.Empty;
+            string videoId = String.Empty;
             
             if (url.Contains("flickr.com"))
             {
                 try
                 {
-                    photoId = Regex.Match(url, "[/]?([\\d]+)[/]?").Groups[1].Value;
+                    videoId = Regex.Match(url, "[/]?([\\d]+)[/]?").Groups[1].Value;
                 }
                 catch (ArgumentException ex)
                 {
@@ -44,23 +45,22 @@ namespace Video_to_Wikipedia.Models
             else
             {
                 // only given the id
-                photoId = url;
+                videoId = url;
             }
 
-            return photoId;
+            return videoId;
         }
 
-        public string GetVideoDownloadUrl(string url)
+        public string GetDownloadUrl(string videoId)
         {
             //photoInfo.LargeUrl = @"http://www.flickr.com/photos/42917230@N08/4076444545/sizes/l/";
             //string url2 = @"http://www.flickr.com/photos/42917230@N08/4076444545/";           
             // video - http://www.flickr.com/photos/iriya/4524606136/
             // g video 4685315975
 
-            this.PhotoId = ExtractIdFromUrl(url);
 
             Flickr flickr = new Flickr(Configuration.FlickrKey, Configuration.FlickrSecret);
-            SizeCollection sc = flickr.PhotosGetSizes(PhotoId);
+            SizeCollection sc = flickr.PhotosGetSizes(videoId);
             string str = sc[0].Url;
 
             var foo = sc.Where(s => s.MediaType == MediaType.Videos).Max(video => video.Width);
@@ -79,10 +79,26 @@ namespace Video_to_Wikipedia.Models
             return sc[maxIndex].Source;
         }
 
-       
+        public VideoInfo GetVideoInfo(string url)
+        {
+            videoInfo = new VideoInfo();
+            videoInfo.SourceUrl = url;
+            videoInfo.VideoId = ExtractIdFromUrl(url);
+            if (!String.IsNullOrEmpty(videoInfo.VideoId))
+            {
+                //todo use flickr api to get metadata
+                videoInfo.Author = "gf";
+                videoInfo.Categories = new List<string>() { "cat1", "cat2" };
+                videoInfo.Description = "desc";
+                videoInfo.Filename = "filename";
+                videoInfo.License = LicenseType.AttributionCC;
+                videoInfo.DownloadUrl = GetDownloadUrl(videoInfo.VideoId);
+            }
 
+            return videoInfo;
+        }
 
-
+        
         /**
         el Video Player
          * site mp4

@@ -9,45 +9,51 @@
   <RecentFiles>
     <RecentFiles>
       <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Shared/f:Site.Master" caret="1017" fromTop="36" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:AccountModels.cs" caret="0" fromTop="0" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/f:Web.config" caret="0" fromTop="0" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
       <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Helpers/f:Configuration.cs" caret="66" fromTop="1" />
       <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Global.asax.cs" caret="370" fromTop="13" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="406" fromTop="9" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="3328" fromTop="38" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Content/f:Site.css" caret="500" fromTop="28" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Abstract/f:IVideoService.cs" caret="256" fromTop="10" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:Index.aspx" caret="827" fromTop="21" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:ServiceFactory.cs" caret="571" fromTop="19" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="620" fromTop="15" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/f:Web.config" caret="0" fromTop="0" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="1495" fromTop="30" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="1969" fromTop="17" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoInfo.cs" caret="309" fromTop="11" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:NewVideoService.cs" caret="307" fromTop="11" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1300" fromTop="20" />
     </RecentFiles>
     <RecentEdits>
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="10226" fromTop="33" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="10226" fromTop="33" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="9870" fromTop="34" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="10249" fromTop="39" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="9871" fromTop="35" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="411" fromTop="5" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="730" fromTop="21" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="10272" fromTop="21" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="730" fromTop="21" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="9821" fromTop="34" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="728" fromTop="3" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="9176" fromTop="22" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="3435" fromTop="22" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Helpers/f:Configuration.cs" caret="269" fromTop="9" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Helpers/f:Configuration.cs" caret="146" fromTop="5" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Helpers/f:Configuration.cs" caret="342" fromTop="14" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Helpers/f:Configuration.cs" caret="643" fromTop="26" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Helpers/f:Configuration.cs" caret="528" fromTop="22" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="9819" fromTop="21" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="730" fromTop="11" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1124" fromTop="21" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1158" fromTop="17" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="77" fromTop="2" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1103" fromTop="34" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Helpers/f:Configuration.cs" caret="66" fromTop="1" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="233" fromTop="6" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="186" fromTop="5" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="406" fromTop="9" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="3473" fromTop="18" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="8875" fromTop="45" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoInfo.cs" caret="309" fromTop="11" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="978" fromTop="6" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="2112" fromTop="20" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="3222" fromTop="30" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="3185" fromTop="25" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="3298" fromTop="30" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="2907" fromTop="24" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:NewVideoService.cs" caret="416" fromTop="16" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="1624" fromTop="3" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="2648" fromTop="28" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Abstract/f:IVideoService.cs" caret="122" fromTop="3" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Abstract/f:IVideoService.cs" caret="256" fromTop="10" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:NewVideoService.cs" caret="307" fromTop="11" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="1382" fromTop="21" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:Index.aspx" caret="809" fromTop="21" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1087" fromTop="25" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="78" fromTop="1" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="3447" fromTop="34" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="206" fromTop="6" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="886" fromTop="26" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="2002" fromTop="35" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="2002" fromTop="23" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1384" fromTop="15" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="3369" fromTop="24" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="498" fromTop="6" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1811" fromTop="38" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="570" fromTop="0" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="384" fromTop="7" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="3697" fromTop="35" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="669" fromTop="15" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -62,18 +68,18 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="using" priority="3" />
+      <Item value="using" priority="5" />
       <Item value="NUnit.Framework" priority="0" />
       <Item value="Moq" priority="0" />
       <Item value="TestFixture" priority="1" />
-      <Item value="public" priority="4" />
+      <Item value="public" priority="9" />
       <Item value="class" priority="0" />
       <Item value="void" priority="0" />
       <Item value="Assert`0" priority="0" />
-      <Item value="ViewResult`0" priority="1" />
-      <Item value="return" priority="1" />
-      <Item value="View`0" priority="0" />
-      <Item value="ViewData" priority="1" />
+      <Item value="ViewResult`0" priority="2" />
+      <Item value="return" priority="4" />
+      <Item value="View`0" priority="2" />
+      <Item value="ViewData" priority="3" />
       <Item value="ProcessInfo`0" priority="0" />
       <Item value="ProcessStartInfo`0" priority="0" />
       <Item value="processStartInfo" priority="6" />
@@ -85,7 +91,7 @@
       <Item value="filestream" priority="1" />
       <Item value="TextWriter`0" priority="2" />
       <Item value="textWriter" priority="0" />
-      <Item value="new" priority="2" />
+      <Item value="new" priority="8" />
       <Item value="tw" priority="2" />
       <Item value="StreamWriter`0" priority="0" />
       <Item value="currentAssembly" priority="0" />
@@ -95,18 +101,18 @@
       <Item value="StreamReader" priority="0" />
       <Item value="conversionProcess" priority="1" />
       <Item value="if" priority="0" />
-      <Item value="null" priority="0" />
+      <Item value="null" priority="1" />
       <Item value="sr" priority="0" />
-      <Item value="string" priority="5" />
+      <Item value="string" priority="12" />
       <Item value="rgFiles" priority="0" />
       <Item value="CopyTo`0" priority="0" />
       <Item value="ToList`1" priority="0" />
       <Item value="foreach" priority="1" />
       <Item value="GetDirectoryFilenames`0" priority="0" />
-      <Item value="Server" priority="0" />
+      <Item value="Server" priority="1" />
       <Item value="s" priority="0" />
       <Item value="IList`0" priority="1" />
-      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="List&lt;string&gt;" priority="1" />
       <Item value="FileInfo`0" priority="0" />
       <Item value="in" priority="0" />
       <Item value="files" priority="0" />
@@ -118,15 +124,43 @@
       <Item value="for" priority="0" />
       <Item value="i" priority="1" />
       <Item value="FlickrNet" priority="0" />
-      <Item value="Flickr`0" priority="1" />
+      <Item value="Flickr`0" priority="2" />
       <Item value="Flickr" priority="0" />
       <Item value="AssemblyConfigurationAttribute`0" priority="0" />
       <Item value="ConfigurationManager`0" priority="0" />
       <Item value="Configuration`0" priority="3" />
-      <Item value="Video_to_Wikipedia" priority="1" />
+      <Item value="Video_to_Wikipedia" priority="2" />
       <Item value="Helpers" priority="0" />
       <Item value="GFHelperMethods" priority="0" />
       <Item value="places" priority="0" />
+      <Item value="VideoInfo`0" priority="4" />
+      <Item value="VideoInfo" priority="2" />
+      <Item value="videoInfo" priority="16" />
+      <Item value="Model" priority="0" />
+      <Item value="RedirectToAction`0" priority="0" />
+      <Item value="private" priority="2" />
+      <Item value="videoService" priority="3" />
+      <Item value="Author" priority="0" />
+      <Item value="GetVideoDownloadUrl`0" priority="1" />
+      <Item value="ExtractIdFromUrl`0" priority="0" />
+      <Item value="url" priority="2" />
+      <Item value="String`0" priority="0" />
+      <Item value="videoId" priority="0" />
+      <Item value="videoInfo1" priority="8" />
+      <Item value="License" priority="0" />
+      <Item value="LicenseType`0" priority="0" />
+      <Item value="Models" priority="0" />
+      <Item value="ex" priority="2" />
+      <Item value="videoUrl" priority="1" />
+      <Item value="TempData" priority="2" />
+      <Item value="WebClient" priority="0" />
+      <Item value="WebRequest`0" priority="0" />
+      <Item value="webClient" priority="0" />
+      <Item value="wr" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="WebException`0" priority="0" />
+      <Item value="log4net" priority="0" />
+      <Item value="logger" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
       <Item value="Pass`0" priority="0" />
@@ -165,7 +199,7 @@
       <Item value="ReadToEnd`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.HttpServerUtilityBase">
-      <Item value="MapPath`0" priority="0" />
+      <Item value="MapPath`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@Video_to_Wikipedia.Properties.Resources">
       <Item value="ffmpegServerLocation" priority="0" />
@@ -186,6 +220,45 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:FlickrNet.PlaceInfo">
       <Item value="Description" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Action`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="TextBox`0" priority="0" />
+      <Item value="Label`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Video_to_Wikipedia.Models.VideoInfo">
+      <Item value="SourceUrl" priority="4" />
+      <Item value="Filename" priority="1" />
+      <Item value="Description" priority="1" />
+      <Item value="License" priority="1" />
+      <Item value="Categories" priority="1" />
+      <Item value="DownloadUrl" priority="1" />
+      <Item value="VideoId" priority="4" />
+      <Item value="Author" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FlickrNet.LicenseType">
+      <Item value="AttributionCC" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Video_to_Wikipedia.Abstract.IVideoService">
+      <Item value="GetVideoInfo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebException">
+      <Item value="Response" priority="3" />
+      <Item value="Status" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Info`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebResponse">
+      <Item value="ContentLength" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

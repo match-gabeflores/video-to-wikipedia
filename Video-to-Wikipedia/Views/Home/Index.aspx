@@ -1,6 +1,6 @@
-﻿<%@ Page Language="C#" Inherits="System.Web.Mvc.ViewPage" Trace="true"   %>
+﻿<%@ Page Language="C#" Inherits="System.Web.Mvc.ViewPage"   %>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
     <title></title>
@@ -20,7 +20,7 @@
             <span>Please enter the url for the video:</span><br />
             <form method="post" action="<%= Url.Action("Submit", "Home") %>">
             <p class="input-item">
-            <input id="url" name="videoUrl" type="text" size="40"/>
+            <input id="videoUrl" name="videoUrl" type="text" size="40"/>
             </p>
             <input id="submitUrl" type="submit" value="Next" />
             </form>

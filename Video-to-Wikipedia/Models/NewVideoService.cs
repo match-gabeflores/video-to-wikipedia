@@ -10,16 +10,12 @@ namespace Video_to_Wikipedia.Models
             throw new NotImplementedException();
         }
 
-        public string GetVideoDownloadUrl(string url)
+        public VideoInfo GetVideoInfo(string url)
         {
             throw new NotImplementedException();
         }
 
-        public string PhotoId
-        {
-            get { throw new NotImplementedException(); }
-            set { throw new NotImplementedException(); }
-        }
+        
     }
 
 }
