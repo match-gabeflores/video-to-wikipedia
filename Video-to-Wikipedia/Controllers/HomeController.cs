@@ -1,7 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Net;
+using System.Web;
 using System.Web.Mvc;
 using Video_to_Wikipedia.Models;
 using Video_to_Wikipedia.Abstract;
@@ -10,6 +12,7 @@ using log4net;
 //todo refactor refactor refactor
 //todo  move magic strings to resources (create resource class if necesssary
 //todo  move stuff out to helper methods
+//todo start downloading video as they fill out details
 
 namespace Video_to_Wikipedia.Controllers
 {
@@ -18,14 +21,16 @@ namespace Video_to_Wikipedia.Controllers
     public class HomeController : Controller
     {
 
-        //private ILog logger = log4net.LogManager.GetLogger(typeof(HomeController));
+        private ILog logger = log4net.LogManager.GetLogger(typeof(HomeController));
         private IVideoService videoService;
         private VideoInfo videoInfo;
+        private readonly string PATH = System.Web.HttpContext.Current.Server.MapPath(".\\");
+
         public ViewResult Index()
         {
             ViewData["key"] = Server.MapPath(".\\") + "ffmpeg2theora.exe" + "\r\n<br\\>";
-            string url = @"http://www.flickr.com/photos/iriya/4524606136/";
-
+            
+            
             return View();
         }
 
@@ -34,7 +39,6 @@ namespace Video_to_Wikipedia.Controllers
             videoService = VideoServiceFactory.GetVideoService(videoUrl);
             videoInfo = videoService.GetVideoInfo(videoUrl);
             TempData["videoInfo"] = videoInfo;
-            
             
             return RedirectToAction("VideoForm");
         }
@@ -47,42 +51,11 @@ namespace Video_to_Wikipedia.Controllers
 
         public ViewResult ProcessVideo()
         {
-            
-            ffmpegProcess();
-
+            // start downloading video as they fill out information details
+            // VideoDownloader.ProcessVideo(videoInfo.DownloadUrl);
+            VideoDownloader.ProcessVideo(@"http://www.flickr.com/photos/iriya/4524606136/play/site/271ab481a7/");
             return View();
         }
-
-        private void ffmpegProcess()
-        {
-            ProcessStartInfo processStartInfo = new ProcessStartInfo();
-            // path.. = "C:\\Users\\w3stfa11\\Documents\\Visual Studio 2010\\Projects\\video-to-wikipedia.git\\Video-to-Wikipedia\\"
-            string serverpath1 = Server.MapPath(".");
-            string serverpath = Server.MapPath("..\\");
-            string ffmpegLocation = serverpath + "ffmpeg2theora.exe";
-            processStartInfo.FileName = ffmpegLocation;
-            
-
-            processStartInfo.RedirectStandardOutput = true;
-            processStartInfo.CreateNoWindow = true;
-            processStartInfo.UseShellExecute = false;
-            processStartInfo.Arguments = "\"" + serverpath + "video.mp4" + "\"";
-            
-            Process conversionProcess = Process.Start(processStartInfo);
-            
-
-            StreamReader sr;
-            if (conversionProcess != null)
-            {
-                sr = conversionProcess.StandardOutput;
-                FileInfo info = new FileInfo( serverpath + "output.txt");
-
-                StreamWriter tw = info.CreateText();
-                tw.WriteLine(sr.ReadToEnd());
-                tw.Close();
-            }
-        }
-     
 
         public IList<string> GetFilenamesFromPath(string filepath)
         {
