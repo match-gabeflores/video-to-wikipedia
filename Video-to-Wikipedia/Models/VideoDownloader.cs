@@ -13,7 +13,7 @@ using DotNetWikiBot;
 using log4net;
 using Video_to_Wikipedia.Helpers;
 using Timer = System.Timers.Timer;
-//todo - how to hide username/password details (even from web.config? 
+//todo - how to hide username/password details (even from web.config?  
 // todo - move ffmpeg location and video location to web.config and put into configuration
 namespace Video_to_Wikipedia.Models
 {
