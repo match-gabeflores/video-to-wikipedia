@@ -5,19 +5,20 @@ using System.IO;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using FlickrNet;
+using Video_to_Wikipedia.Helpers;
 using Video_to_Wikipedia.Models;
 using Video_to_Wikipedia.Abstract;
 using log4net;
+using System.Web;
+using VideoInfo = Video_to_Wikipedia.Models.VideoInfo;
 
-//todo refactor refactor refactor
-//todo  move magic strings to resources (create resource class if necesssary
-//todo  move stuff out to helper methods
-//todo start downloading video as they fill out details
 
 namespace Video_to_Wikipedia.Controllers
 {
 
     [HandleError]
+    [ValidateInput(false)]
     public class HomeController : Controller
     {
 
@@ -28,9 +29,7 @@ namespace Video_to_Wikipedia.Controllers
 
         public ViewResult Index()
         {
-            ViewData["key"] = Server.MapPath(".\\") + "ffmpeg2theora.exe" + "\r\n<br\\>";
-            
-            
+            logger.Info(System.Web.HttpContext.Current.Server.MapPath("~"));
             return View();
         }
 
@@ -45,18 +44,41 @@ namespace Video_to_Wikipedia.Controllers
         public ViewResult VideoForm()
         {
             videoInfo = (VideoInfo)TempData["videoInfo"];
-            
+            ViewData["copyrighted"] = false;
+            if (VideoDownloader.GetLicenseTemplate(videoInfo.License).Contains("Unknown"))
+                ViewData["copyrighted"] = true;
+            ViewData["videoInfo"] = videoInfo;
             return View("VideoForm", videoInfo);
         }
 
-        public ViewResult ProcessVideo()
+
+        public ViewResult ProcessVideo(VideoInfo videoInfoInput, bool? RemoveSound)
         {
-            // start downloading video as they fill out information details
-            // VideoDownloader.ProcessVideo(videoInfo.DownloadUrl);
-            VideoDownloader.ProcessVideo(@"http://www.flickr.com/photos/iriya/4524606136/play/site/271ab481a7/");
-            return View();
+            videoInfo = videoInfoInput;
+            //converterOptions object class?
+            bool removeSound;
+            if (RemoveSound == null)
+                removeSound = false;
+            else
+                removeSound = RemoveSound.HasValue ? RemoveSound.Value : false;
+            
+            try
+            {
+                VideoDownloader.ProcessVideo(videoInfo, removeSound);
+                // download video
+                // convert video
+                // upload video
+            }
+            catch (Exception ex)
+            {   
+                logger.Error("Process video exception: " + ex.Message + Environment.NewLine + videoInfo.SourceUrl);
+                throw;
+            }
+            
+            return View("ProcessVideo", videoInfo);
         }
 
+        // helper function
         public IList<string> GetFilenamesFromPath(string filepath)
         {
             DirectoryInfo directory = new DirectoryInfo(filepath);

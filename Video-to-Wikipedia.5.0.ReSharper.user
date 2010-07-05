@@ -8,55 +8,59 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Helpers/f:Configuration.cs" caret="66" fromTop="1" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Global.asax.cs" caret="370" fromTop="13" />
       <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Content/f:Site.css" caret="500" fromTop="28" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Abstract/f:IVideoService.cs" caret="256" fromTop="10" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:ServiceFactory.cs" caret="571" fromTop="19" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/f:Web.config" caret="0" fromTop="0" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:NewVideoService.cs" caret="307" fromTop="11" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoInfo.cs" caret="309" fromTop="11" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="1089" fromTop="0" />
       <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Shared/f:Site.Master" caret="0" fromTop="0" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="0" fromTop="0" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:ProcessVideo.aspx" caret="378" fromTop="11" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="618" fromTop="13" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="1562" fromTop="37" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:Converter.cs" caret="396" fromTop="15" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1597" fromTop="26" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Abstract/f:IVideoService.cs" caret="0" fromTop="0" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:ServiceFactory.cs" caret="0" fromTop="0" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Scripts/f:jquery-1.3.2-vsdoc.js" caret="118" fromTop="1" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:WikiUploader.cs" caret="565" fromTop="19" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoInfo.cs" caret="758" fromTop="22" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Global.asax" caret="107" fromTop="0" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Global.asax.cs" caret="798" fromTop="21" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/f:Web.config" caret="0" fromTop="0" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="2216" fromTop="43" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:todo - features.txt" caret="1217" fromTop="24" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:Converter.cs" caret="1775" fromTop="22" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:Index.aspx" caret="532" fromTop="14" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="107150" fromTop="21" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:ProcessVideo.aspx" caret="715" fromTop="18" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:FlickrService.cs" caret="3721" fromTop="63" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="7440" fromTop="19" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1435" fromTop="27" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="423" fromTop="9" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Helpers/f:Configuration.cs" caret="89" fromTop="3" />
     </RecentFiles>
     <RecentEdits>
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="675" fromTop="15" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="617" fromTop="14" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="1430" fromTop="39" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="203" fromTop="1" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:Index.aspx" caret="168" fromTop="1" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1397" fromTop="11" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1541" fromTop="25" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1541" fromTop="28" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="280" fromTop="7" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="717" fromTop="24" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="805" fromTop="17" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="1491" fromTop="36" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="146" fromTop="5" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="1370" fromTop="33" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="1198" fromTop="21" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="1328" fromTop="28" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="1009" fromTop="19" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="1482" fromTop="35" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="452" fromTop="7" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="823" fromTop="15" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:ProcessVideo.aspx" caret="378" fromTop="11" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:Web.config" caret="618" fromTop="13" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1557" fromTop="15" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:Converter.cs" caret="396" fromTop="15" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="2808" fromTop="42" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1888" fromTop="13" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="2977" fromTop="34" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="2599" fromTop="23" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="511" fromTop="4" />
-      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="3100" fromTop="37" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="2197" fromTop="24" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="285" fromTop="0" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="15266" fromTop="37" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="15452" fromTop="39" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="738" fromTop="0" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="20606" fromTop="47" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="2619" fromTop="13" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="3332" fromTop="32" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="6427" fromTop="31" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="5326" fromTop="32" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="106387" fromTop="20" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/f:todo - features.txt" caret="1217" fromTop="24" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="107400" fromTop="33" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:Index.aspx" caret="487" fromTop="13" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="2580" fromTop="30" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="1065" fromTop="19" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:ProcessVideo.aspx" caret="97" fromTop="0" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1997" fromTop="15" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:ProcessVideo.aspx" caret="650" fromTop="15" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="1359" fromTop="15" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="106247" fromTop="16" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:DotNetWikiBot.cs" caret="106674" fromTop="25" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="6190" fromTop="34" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="7014" fromTop="9" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Controllers/f:HomeController.cs" caret="1439" fromTop="21" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="2534" fromTop="37" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="2381" fromTop="33" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Models/f:VideoDownloader.cs" caret="7971" fromTop="31" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="577" fromTop="13" />
+      <File id="B0F5CC43-C7C9-405A-80C7-E9F124B41F97/d:Views/d:Home/f:VideoForm.aspx" caret="423" fromTop="9" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -71,46 +75,46 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="using" priority="7" />
+      <Item value="using" priority="10" />
       <Item value="NUnit.Framework" priority="0" />
       <Item value="Moq" priority="0" />
       <Item value="TestFixture" priority="1" />
-      <Item value="public" priority="11" />
-      <Item value="class" priority="1" />
-      <Item value="void" priority="0" />
+      <Item value="public" priority="15" />
+      <Item value="class" priority="2" />
+      <Item value="void" priority="1" />
       <Item value="Assert`0" priority="0" />
       <Item value="ViewResult`0" priority="2" />
-      <Item value="return" priority="6" />
+      <Item value="return" priority="20" />
       <Item value="View`0" priority="2" />
-      <Item value="ViewData" priority="3" />
+      <Item value="ViewData" priority="8" />
       <Item value="ProcessInfo`0" priority="0" />
       <Item value="ProcessStartInfo`0" priority="0" />
-      <Item value="processStartInfo" priority="9" />
+      <Item value="processStartInfo" priority="10" />
       <Item value="ProcessStartInfo" priority="0" />
-      <Item value="System" priority="3" />
+      <Item value="System" priority="6" />
       <Item value="FileInfo" priority="0" />
       <Item value="info" priority="2" />
       <Item value="FileStream`0" priority="0" />
       <Item value="filestream" priority="1" />
       <Item value="TextWriter`0" priority="2" />
       <Item value="textWriter" priority="0" />
-      <Item value="new" priority="13" />
+      <Item value="new" priority="36" />
       <Item value="tw" priority="2" />
-      <Item value="StreamWriter`0" priority="0" />
+      <Item value="StreamWriter`0" priority="1" />
       <Item value="currentAssembly" priority="0" />
       <Item value="Process`0" priority="2" />
-      <Item value="true" priority="2" />
-      <Item value="StreamReader`0" priority="0" />
-      <Item value="StreamReader" priority="0" />
-      <Item value="conversionProcess" priority="5" />
-      <Item value="if" priority="1" />
-      <Item value="null" priority="1" />
-      <Item value="sr" priority="0" />
-      <Item value="string" priority="17" />
+      <Item value="true" priority="6" />
+      <Item value="StreamReader`0" priority="2" />
+      <Item value="StreamReader" priority="2" />
+      <Item value="conversionProcess" priority="6" />
+      <Item value="if" priority="4" />
+      <Item value="null" priority="7" />
+      <Item value="sr" priority="1" />
+      <Item value="string" priority="44" />
       <Item value="rgFiles" priority="0" />
       <Item value="CopyTo`0" priority="0" />
       <Item value="ToList`1" priority="0" />
-      <Item value="foreach" priority="1" />
+      <Item value="foreach" priority="2" />
       <Item value="GetDirectoryFilenames`0" priority="0" />
       <Item value="Server" priority="4" />
       <Item value="s" priority="0" />
@@ -123,79 +127,209 @@
       <Item value="filenameStrings" priority="0" />
       <Item value="BinaryReader`0" priority="0" />
       <Item value="Resources`0" priority="0" />
-      <Item value="ffmpegLocation" priority="0" />
-      <Item value="for" priority="0" />
+      <Item value="ffmpegLocation" priority="1" />
+      <Item value="for" priority="1" />
       <Item value="i" priority="1" />
-      <Item value="FlickrNet" priority="0" />
-      <Item value="Flickr`0" priority="2" />
-      <Item value="Flickr" priority="0" />
+      <Item value="FlickrNet" priority="6" />
+      <Item value="Flickr`0" priority="4" />
+      <Item value="Flickr" priority="1" />
       <Item value="AssemblyConfigurationAttribute`0" priority="0" />
       <Item value="ConfigurationManager`0" priority="0" />
-      <Item value="Configuration`0" priority="3" />
-      <Item value="Video_to_Wikipedia" priority="2" />
+      <Item value="Configuration`0" priority="4" />
+      <Item value="Video_to_Wikipedia" priority="3" />
       <Item value="Helpers" priority="0" />
       <Item value="GFHelperMethods" priority="0" />
       <Item value="places" priority="0" />
-      <Item value="VideoInfo`0" priority="4" />
+      <Item value="VideoInfo`0" priority="5" />
       <Item value="VideoInfo" priority="2" />
-      <Item value="videoInfo" priority="16" />
-      <Item value="Model" priority="0" />
-      <Item value="RedirectToAction`0" priority="0" />
-      <Item value="private" priority="3" />
-      <Item value="videoService" priority="3" />
+      <Item value="videoInfo" priority="48" />
+      <Item value="Model" priority="2" />
+      <Item value="RedirectToAction`0" priority="1" />
+      <Item value="private" priority="7" />
+      <Item value="videoService" priority="4" />
       <Item value="Author" priority="0" />
       <Item value="GetVideoDownloadUrl`0" priority="1" />
       <Item value="ExtractIdFromUrl`0" priority="0" />
-      <Item value="url" priority="3" />
-      <Item value="String`0" priority="0" />
+      <Item value="url" priority="4" />
+      <Item value="String`0" priority="4" />
       <Item value="videoId" priority="0" />
       <Item value="videoInfo1" priority="8" />
       <Item value="License" priority="0" />
-      <Item value="LicenseType`0" priority="0" />
+      <Item value="LicenseType`0" priority="5" />
       <Item value="Models" priority="0" />
-      <Item value="ex" priority="2" />
+      <Item value="ex" priority="6" />
       <Item value="videoUrl" priority="1" />
       <Item value="TempData" priority="2" />
-      <Item value="WebClient" priority="0" />
-      <Item value="WebRequest`0" priority="0" />
-      <Item value="webClient" priority="6" />
+      <Item value="WebClient" priority="1" />
+      <Item value="WebRequest`0" priority="3" />
+      <Item value="webClient" priority="9" />
       <Item value="wr" priority="0" />
-      <Item value="try" priority="0" />
-      <Item value="WebException`0" priority="0" />
-      <Item value="log4net" priority="0" />
-      <Item value="logger" priority="1" />
-      <Item value="static" priority="0" />
-      <Item value="false" priority="0" />
+      <Item value="try" priority="5" />
+      <Item value="WebException`0" priority="1" />
+      <Item value="log4net" priority="1" />
+      <Item value="logger" priority="29" />
+      <Item value="static" priority="5" />
+      <Item value="false" priority="9" />
       <Item value="MapPath`0" priority="0" />
       <Item value="IO" priority="0" />
       <Item value="Mvc" priority="0" />
-      <Item value="Web" priority="0" />
-      <Item value="HttpServerUtility`0" priority="1" />
+      <Item value="Web" priority="3" />
+      <Item value="HttpServerUtility`0" priority="3" />
       <Item value="Controller`0" priority="0" />
-      <Item value="HttpServerUtilityBase`0" priority="4" />
+      <Item value="HttpServerUtilityBase`0" priority="7" />
       <Item value="httpServerUtilityBase" priority="0" />
-      <Item value="z" priority="1" />
-      <Item value="HttpServerUtility" priority="0" />
+      <Item value="z" priority="3" />
+      <Item value="HttpServerUtility" priority="1" />
       <Item value="HttpServerUtilityWrapper`0" priority="0" />
-      <Item value="Uri" priority="0" />
+      <Item value="Uri" priority="1" />
       <Item value="ThreadContext`0" priority="0" />
       <Item value="Timer" priority="1" />
       <Item value="Timer`0" priority="0" />
       <Item value="Timers" priority="0" />
       <Item value="t" priority="0" />
-      <Item value="WebClient`0" priority="0" />
+      <Item value="WebClient`0" priority="2" />
       <Item value="sender" priority="0" />
-      <Item value="e" priority="0" />
-      <Item value="Converter`0" priority="1" />
-      <Item value="Converter" priority="1" />
-      <Item value="converter" priority="1" />
-      <Item value="FilePathResult`0" priority="0" />
-      <Item value="prop" priority="0" />
-      <Item value="readonly" priority="0" />
-      <Item value="PATH" priority="0" />
+      <Item value="e" priority="2" />
+      <Item value="Converter`0" priority="2" />
+      <Item value="Converter" priority="2" />
+      <Item value="converter" priority="2" />
+      <Item value="FilePathResult`0" priority="1" />
+      <Item value="prop" priority="5" />
+      <Item value="readonly" priority="2" />
+      <Item value="PATH" priority="3" />
       <Item value="ffmpegProcess`0" priority="0" />
       <Item value="args" priority="1" />
       <Item value="int" priority="0" />
+      <Item value="VideoDownloader`0" priority="6" />
+      <Item value="videoDownloader" priority="1" />
+      <Item value="VideoDownloader" priority="0" />
+      <Item value="HttpContext`0" priority="7" />
+      <Item value="filepath" priority="23" />
+      <Item value="Uri`0" priority="0" />
+      <Item value="SerializationInfo" priority="0" />
+      <Item value="Exception`0" priority="4" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="bool" priority="4" />
+      <Item value="DotNetWikiBot" priority="0" />
+      <Item value="Page`0" priority="0" />
+      <Item value="Page" priority="1" />
+      <Item value="Site`0" priority="1" />
+      <Item value="Site" priority="0" />
+      <Item value="wikiSite" priority="0" />
+      <Item value="WikiUploader`0" priority="1" />
+      <Item value="WikiUploader" priority="2" />
+      <Item value="wikiUploader" priority="4" />
+      <Item value="fileNamespace" priority="0" />
+      <Item value="FileStyleUriParser`0" priority="0" />
+      <Item value="Path`0" priority="5" />
+      <Item value="path" priority="0" />
+      <Item value="fileName" priority="1" />
+      <Item value="page" priority="4" />
+      <Item value="catch" priority="2" />
+      <Item value="Environment`0" priority="6" />
+      <Item value="is" priority="0" />
+      <Item value="HttpRequest`0" priority="0" />
+      <Item value="webRequest" priority="14" />
+      <Item value="parameters" priority="2" />
+      <Item value="RequestNotification`0" priority="0" />
+      <Item value="requestStream" priority="1" />
+      <Item value="byte" priority="2" />
+      <Item value="Text" priority="0" />
+      <Item value="byteArray" priority="2" />
+      <Item value="FileWebResponse`0" priority="1" />
+      <Item value="WebResponse`0" priority="0" />
+      <Item value="response" priority="4" />
+      <Item value="wc" priority="1" />
+      <Item value="CookieContainer`0" priority="0" />
+      <Item value="cookieContainer" priority="4" />
+      <Item value="CookieContainer" priority="0" />
+      <Item value="cookie" priority="5" />
+      <Item value="responseStream" priority="11" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="reader" priority="2" />
+      <Item value="XmlReader`0" priority="3" />
+      <Item value="XmlNodeReader" priority="0" />
+      <Item value="XmlTextReader`0" priority="0" />
+      <Item value="XmlTextReader" priority="0" />
+      <Item value="x" priority="2" />
+      <Item value="XmlDocument`0" priority="0" />
+      <Item value="XmlDocument" priority="0" />
+      <Item value="doc" priority="9" />
+      <Item value="from" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="XDocument`0" priority="1" />
+      <Item value="select" priority="0" />
+      <Item value="login" priority="0" />
+      <Item value="xmlreader" priority="1" />
+      <Item value="StringReader`0" priority="0" />
+      <Item value="StringReader" priority="0" />
+      <Item value="IAsyncResult`0" priority="0" />
+      <Item value="loginToken" priority="2" />
+      <Item value="result" priority="0" />
+      <Item value="username" priority="0" />
+      <Item value="password" priority="0" />
+      <Item value="Length" priority="1" />
+      <Item value="streamRequest" priority="0" />
+      <Item value="HttpRequestHeader" priority="0" />
+      <Item value="logstream" priority="1" />
+      <Item value="SaveOptions" priority="0" />
+      <Item value="SaveOptions`0" priority="0" />
+      <Item value="webRequest2" priority="0" />
+      <Item value="sessionValue" priority="1" />
+      <Item value="forceLoad" priority="0" />
+      <Item value="messages" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="size" priority="3" />
+      <Item value="Html" priority="2" />
+      <Item value="sc" priority="2" />
+      <Item value="MediaType`0" priority="0" />
+      <Item value="None" priority="1" />
+      <Item value="maxIndex" priority="1" />
+      <Item value="currentIndex" priority="0" />
+      <Item value="flickr" priority="6" />
+      <Item value="videoInfoInput" priority="6" />
+      <Item value="File`0" priority="0" />
+      <Item value="photosGetInfo" priority="21" />
+      <Item value="Photo`0" priority="1" />
+      <Item value="GetDownloadUrl`0" priority="0" />
+      <Item value="tags" priority="0" />
+      <Item value="date" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="PhotoInfo`0" priority="0" />
+      <Item value="foo" priority="0" />
+      <Item value="double" priority="2" />
+      <Item value="Location`0" priority="0" />
+      <Item value="Dictionary&lt;string,object&gt;" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="ArgumentNullException" priority="0" />
+      <Item value="str" priority="0" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="sb" priority="5" />
+      <Item value="licenseType" priority="3" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="4" />
+      <Item value="break" priority="0" />
+      <Item value="default" priority="0" />
+      <Item value="GetLicenseTemplate`0" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="Latitude" priority="0" />
+      <Item value="Longitude" priority="0" />
+      <Item value="rmSound" priority="1" />
+      <Item value="removeSound" priority="8" />
+      <Item value="RemoveEmptyEntries" priority="0" />
+      <Item value="PhotoCount`0" priority="0" />
+      <Item value="siteurl" priority="0" />
+      <Item value="Logger" priority="0" />
+      <Item value="HttpUtility`0" priority="0" />
+      <Item value="h" priority="0" />
+      <Item value="HttpApplication`0" priority="0" />
+      <Item value="ILog`0" priority="0" />
+      <Item value="respStr" priority="0" />
+      <Item value="RemoveSound" priority="1" />
+      <Item value="LinkedList" priority="0" />
+      <Item value="CommonsLink" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
       <Item value="Pass`0" priority="0" />
@@ -207,7 +341,7 @@
       <Item value="FileName" priority="1" />
       <Item value="RedirectStandardOutput" priority="1" />
       <Item value="CreateNoWindow" priority="0" />
-      <Item value="Arguments" priority="1" />
+      <Item value="Arguments" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.IO.FileInfo">
       <Item value="OpenWrite`0" priority="0" />
@@ -232,9 +366,11 @@
       <Item value="StandardOutput" priority="0" />
       <Item value="Exited" priority="1" />
       <Item value="EnableRaisingEvents" priority="0" />
+      <Item value="ExitCode" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.IO.StreamReader">
-      <Item value="ReadToEnd`0" priority="0" />
+      <Item value="ReadToEnd`0" priority="6" />
+      <Item value="Close`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.HttpServerUtilityBase">
       <Item value="MapPath`0" priority="4" />
@@ -255,9 +391,14 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:FlickrNet.Flickr">
       <Item value="PlacesGetInfoByUrl`0" priority="0" />
+      <Item value="PhotosGetContext`0" priority="1" />
+      <Item value="PhotosGetInfo`0" priority="1" />
+      <Item value="PhotosSearch`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:FlickrNet.PlaceInfo">
       <Item value="Description" priority="1" />
+      <Item value="Latitude" priority="1" />
+      <Item value="Longitude" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
       <Item value="Action`0" priority="1" />
@@ -265,43 +406,61 @@
     <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
       <Item value="TextBox`0" priority="0" />
       <Item value="Label`0" priority="0" />
+      <Item value="Hidden`0" priority="0" />
+      <Item value="HiddenFor`2" priority="0" />
+      <Item value="TextArea`0" priority="1" />
+      <Item value="CheckBox`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Video_to_Wikipedia.Models.VideoInfo">
-      <Item value="SourceUrl" priority="4" />
-      <Item value="Filename" priority="1" />
-      <Item value="Description" priority="1" />
-      <Item value="License" priority="1" />
+      <Item value="SourceUrl" priority="10" />
+      <Item value="Filename" priority="14" />
+      <Item value="Description" priority="2" />
+      <Item value="License" priority="3" />
       <Item value="Categories" priority="1" />
-      <Item value="DownloadUrl" priority="1" />
-      <Item value="VideoId" priority="4" />
-      <Item value="Author" priority="0" />
+      <Item value="DownloadUrl" priority="4" />
+      <Item value="VideoId" priority="6" />
+      <Item value="Author" priority="3" />
+      <Item value="Title" priority="4" />
+      <Item value="Date" priority="1" />
+      <Item value="Location" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.String">
-      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="1" />
+      <Item value="Empty" priority="1" />
+      <Item value="Format`0" priority="0" />
+      <Item value="IsNullOrWhiteSpace`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@FlickrNet.LicenseType">
-      <Item value="AttributionCC" priority="0" />
+      <Item value="AttributionCC" priority="1" />
+      <Item value="AttributionShareAlikeCC" priority="0" />
+      <Item value="UnitedStatesGovernmentWork" priority="0" />
+      <Item value="NoKnownCopyrightRestrictions" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Video_to_Wikipedia.Abstract.IVideoService">
       <Item value="GetVideoInfo`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Net.WebClient">
-      <Item value="DownloadFile`0" priority="0" />
+      <Item value="DownloadFile`0" priority="1" />
       <Item value="DownloadFileAsync`0" priority="0" />
       <Item value="CancelAsync`0" priority="1" />
+      <Item value="DownloadProgressChanged" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Net.WebException">
-      <Item value="Response" priority="3" />
+      <Item value="Response" priority="4" />
       <Item value="Status" priority="1" />
+      <Item value="GetObjectData`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:log4net.ILog">
-      <Item value="Info`0" priority="2" />
+      <Item value="Info`0" priority="34" />
+      <Item value="Error`0" priority="5" />
+      <Item value="Logger" priority="0" />
+      <Item value="InfoFormat`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Net.WebResponse">
       <Item value="ContentLength" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.HttpServerUtility">
-      <Item value="MapPath`0" priority="1" />
+      <Item value="MapPath`0" priority="5" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Timers.Timer">
       <Item value="Start`0" priority="0" />
@@ -309,10 +468,177 @@
       <Item value="Interval" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Object">
-      <Item value="GetType`0" priority="0" />
+      <Item value="GetType`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Video_to_Wikipedia.Models.Converter">
-      <Item value="Convert`0" priority="0" />
+      <Item value="Convert`0" priority="1" />
+      <Item value="filepath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Video_to_Wikipedia.Models.VideoDownloader">
+      <Item value="ProcessVideo`0" priority="1" />
+      <Item value="GetLicenseTemplate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContextBase">
+      <Item value="CurrentHandler" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Video_to_Wikipedia.Models.WikiUploader">
+      <Item value="UploadFile`0" priority="3" />
+      <Item value="Login`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetFileName`0" priority="2" />
+      <Item value="ChangeExtension`0" priority="2" />
+      <Item value="HasExtension`0" priority="0" />
+      <Item value="DirectorySeparatorChar" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DotNetWikiBot.Page">
+      <Item value="Load`0" priority="0" />
+      <Item value="Exists`0" priority="0" />
+      <Item value="UploadImage`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="4" />
+      <Item value="StackTrace" priority="2" />
+      <Item value="InnerException" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="Source" priority="0" />
+      <Item value="GetBaseException`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebRequest">
+      <Item value="Method" priority="0" />
+      <Item value="ContentLength" priority="0" />
+      <Item value="GetRequestStream`0" priority="0" />
+      <Item value="GetResponse`0" priority="0" />
+      <Item value="Headers" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="2" />
+      <Item value="Select`2" priority="0" />
+      <Item value="Contains`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Write`0" priority="4" />
+      <Item value="Close`0" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="ReadByte`0" priority="0" />
+      <Item value="Read`0" priority="0" />
+      <Item value="CanRead" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="CookieContainer" priority="0" />
+      <Item value="ContentLength" priority="0" />
+      <Item value="GetRequestStream`0" priority="0" />
+      <Item value="Headers" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebResponse">
+      <Item value="Cookies" priority="0" />
+      <Item value="GetResponseStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Cookie">
+      <Item value="Value" priority="2" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.CookieContainer">
+      <Item value="Add`0" priority="0" />
+      <Item value="GetCookies`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="LoadXml`0" priority="0" />
+      <Item value="Load`0" priority="0" />
+      <Item value="Descendants`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Linq.XDocument">
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XDocument">
+      <Item value="Descendants`0" priority="1" />
+      <Item value="Save`0" priority="0" />
+      <Item value="Elements`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="WriteTo`0" priority="0" />
+      <Item value="CreateReader`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Attribute`0" priority="1" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Select`2" priority="1" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XAttribute">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebHeaderCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="ReadToDescendant`0" priority="0" />
+      <Item value="ReadInnerXml`0" priority="1" />
+      <Item value="ReadString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XName">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="Server" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FlickrNet.Size">
+      <Item value="Width" priority="0" />
+      <Item value="MediaType" priority="3" />
+      <Item value="Label" priority="3" />
+      <Item value="Source" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FlickrNet.MediaType">
+      <Item value="Videos" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FlickrNet.SizeCollection">
+      <Item value="Where`1" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.AsyncCompletedEventArgs">
+      <Item value="Error" priority="0" />
+      <Item value="Cancelled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FlickrNet.PhotoInfo">
+      <Item value="DateTaken" priority="1" />
+      <Item value="Description" priority="0" />
+      <Item value="License" priority="0" />
+      <Item value="Location" priority="4" />
+      <Item value="OwnerRealName" priority="2" />
+      <Item value="OwnerUserName" priority="1" />
+      <Item value="Tags" priority="0" />
+      <Item value="Title" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Video_to_Wikipedia.Helpers.Configuration">
+      <Item value="FlickrSecret" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Video_to_Wikipedia.Models.Location">
+      <Item value="Latitude" priority="0" />
+      <Item value="Longitude" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="0" />
+      <Item value="AppendFormat`0" priority="3" />
+      <Item value="AppendLine`0" priority="2" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Hosting.HostingEnvironment">
+      <Item value="MapPath`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="1" />
+      <Item value="Value" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

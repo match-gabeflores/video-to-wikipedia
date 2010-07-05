@@ -12,7 +12,7 @@
 
         <div id="header">
             <div id="title">
-                <h1>My MVC Application</h1>
+                <h1>Video to Wikipedia</h1>
                 <%= ViewData["key"] %>
             </div>
                

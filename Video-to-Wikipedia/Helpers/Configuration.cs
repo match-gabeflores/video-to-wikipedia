@@ -28,5 +28,20 @@ namespace Video_to_Wikipedia.Helpers
                 return ConfigurationManager.AppSettings["flickr-secret"];
             }
         }
+
+        public static string WikiUsername
+        {
+            get
+            {
+                return ConfigurationManager.AppSettings["wiki-username"];
+            }
+        }
+        public static string WikiPassword
+        {
+            get
+            {
+                return ConfigurationManager.AppSettings["wiki-password"];
+            }
+        }
     }
 }
