@@ -1,0 +1,34 @@
+﻿1 - rename file to ogv
+2 - add geodata to wikitext
+
+
+- categories field needs to be checked
+- link to author's profile page
+- change date
+- updating fields in videoform needs to be saved to object
+- process video action method should take in videoinfo object
+-// todo make videodownloader only download video, not other tasks (Single responsibility principle SRP
+// cross scripting possible in description input?
+// append ogv to filename if user forgets it
+// todo check if file already exists (we don't want to overwrite), else ask to rename or append (1) to it
+//todo refactor refactor refactor
+//todo  move stuff out to helper methods
+//todo start downloading video as they fill out details
+//todo gitignore?s)
+// jquery - check if license if ok before doing anything else!
+// ffmpeg settings! - no sound, quality, etc, length
+// turn into a winforms app
+// strip html (maybe, just replace a href with [http.. link]
+// post a message to flickr user's video page (or optionally just / open the page for them to write one
+// delete videos after a while
+// have user login
+// watch files after uploading
+// allow user to choose the title (who cares about bad chars, you sort that out anyway)
+//*************************//
+// Sample vids
+//*************************//
+No hd 22 sec
+http://www.flickr.com/photos/deegoo/3253887695/
+
+hd 17 sec
+http://www.flickr.com/photos/ksrikant/4236249775/

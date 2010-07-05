@@ -1,0 +1,9 @@
+web.config
+
+*.mp4
+*.dll
+*.ogv
+*.dat
+*.log
+
+Video-to-Wikipedia.Publish.xml

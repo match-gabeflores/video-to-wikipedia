@@ -1,0 +1,17 @@
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\Video-to-Wikipedia.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\Video-to-Wikipedia.pdb
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\log4net.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\System.Web.Abstractions.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\System.Web.Extensions.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\System.Web.Mobile.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\System.Web.Mvc.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\System.Web.Routing.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\log4net.xml
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\System.Web.Mvc.xml
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\obj\Release\ResolveAssemblyReference.cache
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\obj\Release\Video_to_Wikipedia.Properties.Resources.resources
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\obj\Release\GenerateResource.read.1.tlog
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\obj\Release\GenerateResource.write.1.tlog
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\obj\Release\Video-to-Wikipedia.dll
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\obj\Release\Video-to-Wikipedia.pdb
+C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\bin\ffmpeg2theora.exe

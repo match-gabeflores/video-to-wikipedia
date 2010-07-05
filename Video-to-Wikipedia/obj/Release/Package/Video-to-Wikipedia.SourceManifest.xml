@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\w3stfa11\Documents\Visual Studio 2010\Projects\video-to-wikipedia.git\Video-to-Wikipedia\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

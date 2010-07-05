@@ -1,0 +1,36 @@
+﻿body {
+}
+
+.input-item, .search_by, .search-result-item 
+{
+	background-color: #edf3ef;
+	border: 1px solid #dbe5df;
+	padding: 4px;
+	margin: 4px;
+	width: 640px;
+}
+	
+.input-item label, .search_by label 
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.input-item input, .input-item textarea, .input-item select, .search_by input 
+{
+	width: 638px;
+	border: 1px solid #9fbfd8;
+}
+
+#content {
+	margin: 1em;
+	padding: 0.5em;
+	border: 1px solid #9fbfd8;
+	background-color: white;
+	width: 720px;
+}
+
+form 
+{
+	display: block;
+}
