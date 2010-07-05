@@ -1,4 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <publishData>
-  <publishProfile publishUrl="https://web704.discountasp.net:8172/MsDeploy.axd" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="thegabrielflores.com/video-to-wikipedia" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="False" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="thegabrielf" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAN26/kkxOU28NpZFCiXd9AAAAAACAAAAAAADZgAAqAAAABAAAABAuiBxMIvRufZSEuG8s+KxAAAAAASAAACgAAAAEAAAAOIRwpi3CxnHiEGUIx5bwCYYAAAA1BLe/b/uiMRNB28Sj2BDPoMDI5nCgZcAFAAAANTYVeEINreokBQtIWNlSafZ3FAU" SelectedForPublish="True" />
+  <publishProfile publishUrl="https://web704.discountasp.net:8172/MsDeploy.axd" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="thegabrielflores.com/video-to-wikipedia" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="False" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="MSDeploy" replaceMatchingFiles="False" userName="thegabrielf" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAN26/kkxOU28NpZFCiXd9AAAAAACAAAAAAADZgAAqAAAABAAAABAuiBxMIvRufZSEuG8s+KxAAAAAASAAACgAAAAEAAAAOIRwpi3CxnHiEGUIx5bwCYYAAAA1BLe/b/uiMRNB28Sj2BDPoMDI5nCgZcAFAAAANTYVeEINreokBQtIWNlSafZ3FAU" SelectedForPublish="True">
+    <file relUrl="bin/FlickrNet.dll" publishTime="06/27/2010 15:09:12" />
+    <file relUrl="Global.asax" publishTime="06/08/2010 13:50:25" />
+    <file relUrl="todo - features.txt" publishTime="06/27/2010 15:25:19" />
+    <file relUrl="Web.config" publishTime="07/02/2010 20:11:16" />
+  </publishProfile>
 </publishData>
